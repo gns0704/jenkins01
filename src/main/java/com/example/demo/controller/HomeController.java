@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 	@GetMapping("/")
 	public String home() {
-		return "11111111111111111111111!!!";
+		return "아리랑 아리랑 아라리요!!!";
 	}
 }
